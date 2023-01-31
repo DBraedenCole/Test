@@ -6,5 +6,7 @@ def main():
     for k, v in myDict.items():
         print(f"Key: {k} AND Value: {v}")
 
+    print("Hello World")
+
 
 main()
